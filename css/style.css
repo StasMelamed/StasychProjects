@@ -21,23 +21,23 @@ body {
     color: #302f2f;
     line-height: 0.8;
     font-weight: 750;
-    font-size: 1.5em;
+    font-size: 1.7em;
     
 }
 .bottomTxt{
   color: gray;
-    font-size:1.3em;
-    line-height: 0.7;
-    font-weight: 500;
+    font-size:1.2em;
+    line-height: 0.8;
+    font-weight: 600;
 }
 .pic {
     width: 100%;
     border: 1px solid #3685ff;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .field{  
-    border: 15px solid #fff;
-    border-radius: 10px;
+    border: 20px solid #fff;
+    border-radius: 15px;
     padding: 0;
     border: 1;
     background-color: #fff;
