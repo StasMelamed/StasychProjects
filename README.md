@@ -1,2 +1,0 @@
-# StasychProjects
-# Test
