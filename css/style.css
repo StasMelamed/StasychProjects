@@ -11,9 +11,10 @@ body {
   font-size: 11px; 
   color: gray;
 }
-
-.pic{
-  width:100%;
+.pic {
+    width: 100%;
+    border: 1px solid #3685ff;
+    border-radius: 10px;
 }
 .field{  
     border: 15px solid #fff;
