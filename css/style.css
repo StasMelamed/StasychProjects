@@ -20,13 +20,18 @@ body {
   position:relative;
 }
 .mainTxt{
-  font-size: 13px; 
-  color: black;
-  font-weight:800;
+  
+    color: #302f2f;
+    line-height: 0.8;
+    font-weight: 750;
+    font-size: 6vw;
+    
 }
 .bottomTxt{
-  font-size: 11px; 
   color: gray;
+    font-size: 4vw;
+    line-height: 0.7;
+    font-weight: 500;
 }
 .pic {
     width: 100%;
