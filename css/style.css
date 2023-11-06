@@ -30,4 +30,9 @@ body {
     padding: 0;
     border: 1;
     height: fit-content;
+  display:inline-block;
+  position:absolute;
+  top:0;
+  bottom:0;
+  margin:auto 0;
 }
