@@ -1,1 +1,13 @@
+body {
+  background-color: #eee;
+  text-align: center;
+}
 
+.mainTxt{
+  font-size: 13px; 
+  color: black;
+}
+.bottomTxt{
+  font-size: 11px; 
+  color: gray;
+}
