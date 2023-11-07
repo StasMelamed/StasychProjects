@@ -55,4 +55,5 @@ body {
 .me{
     border: 1px solid hsl(212, 45%, 89%);
     border-radius: 50%;
+    max-width:100px;
 }
