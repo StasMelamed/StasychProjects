@@ -4,10 +4,11 @@ html{
   height:100%;
   width:100%;
   padding:auto;
-font-size:14px;
+font-size:15px;
+  font-family: 'Outfit', sans-serif;
 }
 body {
-  background-color: #dee9eb;
+  background-color: hsl(212, 45%, 89%);
   text-align: center;
   height:100%;
   width:100%;
@@ -18,17 +19,17 @@ body {
 }
 .mainTxt{
   
-    color: #302f2f;
+    color: hsl(218, 44%, 22%);
     line-height: 0.8;
-    font-weight: 750;
+    font-weight: 700;
     font-size: 1.7em;
     
 }
 .bottomTxt{
-  color: gray;
+  color: hsl(212deg 10.33% 61.24%);
     font-size:1.2em;
     line-height: 0.8;
-    font-weight: 600;
+    font-weight: 400;
 }
 .pic {
     width: 100%;
@@ -36,11 +37,11 @@ body {
     border-radius: 15px;
 }
 .field{  
-    border: 20px solid #fff;
+    border: 20px solid hsl(0, 0%, 100%);
     border-radius: 15px;
     padding: 0;
     border: 1;
-    background-color: #fff;
+    background-color: hsl(0, 0%, 100%);
     height: fit-content;
   display:inline-block;
   position:absolute;
